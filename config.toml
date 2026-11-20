@@ -1,0 +1,3 @@
+# Folder holding one sub-folder per series (stories live on the external drive).
+# Override with the EBOOK_LIBRARY environment variable.
+library = "/Volumes/Ari_HDD_01/stories"
